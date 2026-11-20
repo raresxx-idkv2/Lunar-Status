@@ -1,2 +1,2 @@
 LAST-UPDATED: 0.0.2026
-STATUS: UP
+STATUS: Operational
